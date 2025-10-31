@@ -3,8 +3,7 @@
 2. <strong>手册性质</strong>：本手册为基于PK的MW手册的<strong>改版</strong>而非新版，部分功能（如评论区）不会因此复活。
 
 <strong>更新说明</strong>
-• <strong>2025.10.24</strong>版本数据已更新
+• <strong>2025.10.31</strong>版本数据已更新
 
 如遇其他问题，欢迎反馈：
 • <strong>Q群号码</strong>：494789051（推荐）
-• <strong>Q群号码</strong>：231078576
