@@ -1,0 +1,10 @@
+<strong>手册服务说明</strong>
+1. <strong>数据源</strong>：本手册对接非官方数据接口，没有及时更新是正常现象，请耐心等待。
+2. <strong>手册性质</strong>：本手册为基于PK的MW手册的<strong>改版</strong>而非新版，部分功能（如评论区）不会因此复活。
+
+<strong>更新说明</strong>
+• <strong>2025.11.07</strong>版本数据已更新
+• 手册<strong>0.0.42</strong>版本已发布，可在手机上获取精灵、刻印仓库数据
+
+如遇其他问题，欢迎反馈：
+• <strong>Q群号码</strong>：494789051（推荐）
