@@ -1,7 +1,7 @@
 {
     "code": 56,
     "versionname": "0.0.5",
-    "content": "<p style=\"color: red; font-weight: bold;\">1.修复了自动更新功能，手册可自动检测新版本并支持在线下载与安装</p><p>2.更新了<strong>能力称号</strong>板块；</p><p>3.修复了新能力套装不显示能力加成的问题；</p>",
-    "time": 1762836579000,
+    "content": "1.修复了自动更新功能，手册可自动检测新版本并支持在线下载与安装；\n2.更新了【能力称号】板块；\n3.修复了新能力套装不显示能力加成的问题；",
+    "time": 1762837184000,
     "download": "https://gcore.jsdelivr.net/gh/dawnnights/seerh5@main/MW%e6%89%8b%e5%86%8c0.0.5.Apk"
 }
