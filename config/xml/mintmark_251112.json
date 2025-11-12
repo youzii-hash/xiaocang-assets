@@ -58417,12 +58417,12 @@
                 "Grade": "5",
                 "BaseHoleNum": "1",
                 "BaseAttriValue": "4 3 0 3 3 12",
-                "MaxAttriValue": "40 30 0 30 30 120",
+                "MaxAttriValue": "40 30 0 30 30 130",
                 "MintmarkClass": "11",
                 "Level": "100",
                 "Max": "99",
                 "Des": "航行6000天",
-                "EffectDes": "攻击4/40,防御3/30,特防3/30,速度3/30,体力12/120"
+                "EffectDes": "攻击4/40,防御3/30,特防3/30,速度3/30,体力12/130"
             },
             {
                 "ID": "50001",
