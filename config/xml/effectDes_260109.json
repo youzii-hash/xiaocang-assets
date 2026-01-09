@@ -1,0 +1,18 @@
+{
+    "_declaration": {
+        "version": 1,
+        "encoding": "UTF-8"
+    },
+    "root": {
+        "item": [
+            {
+                "desc": "弱化类异常状态，该状态下每回合对手行动开始时都会扣除最大体力的1/8",
+                "icon": 1,
+                "id": 1,
+                "kind": 2,
+                "kinddes": "中毒",
+                "tab": 131072
+            }
+        ]
+    }
+}
