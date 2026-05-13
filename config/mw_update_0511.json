@@ -1,7 +1,0 @@
-{
-    "code": 64,
-    "versionname": "0.0.6",
-    "content": "1.在工具区添加了【SFC脱机】，用于执行赛尔号脱机任务\n2.在工具区添加了【Lua脚本】，用于测试lua脚本并打包为sfc文件在脱机中运行\n3.在工具区添加了【战斗方案编辑器】，用于编写脱机使用的战斗方案文件\n以上内容均处于测试阶段，如有问题或建议欢迎进群交流反馈，感谢捏~\n\n如果在线更新无效，请点击该链接前往浏览器下载安装：https://gcore.jsdelivr.net/gh/dawnnights/seerh5@main/MW%e6%89%8b%e5%86%8c0.0.6.Apk",
-    "time": 1778513826000,
-    "download": "https://gcore.jsdelivr.net/gh/dawnnights/seerh5@main/MW%e6%89%8b%e5%86%8c0.0.6.Apk"
-}
